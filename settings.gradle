@@ -1,0 +1,2 @@
+rootProject.name='navi_advance_with_drawer'
+include ':app'
