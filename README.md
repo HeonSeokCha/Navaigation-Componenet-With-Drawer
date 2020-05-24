@@ -8,6 +8,8 @@ This is Navaigation Component Advance Sample With Drawer
 ### Navigation Componenet BackStack Issue
 
  https://github.com/android/architecture-components-samples/issues/530
+ 
+ https://medium.com/@programmerr47/navigate-back-with-navigation-component-6cec37ba6964 (Thanks to Michael Spitsin)
 
 
   * Thanks to theozgurr (https://gist.github.com/theozgurr/506895a4f0f820a6c60e97eb6026198b)
